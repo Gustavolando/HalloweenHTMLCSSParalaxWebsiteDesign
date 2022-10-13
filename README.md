@@ -1,7 +1,7 @@
 ## Halloween Html CSS | Parallax Website Design
 
 I loved practicing this amazing parallax effect using gsap - scrolltrigger js library.
-Pretty simple html and CSS, but great example of how to use scrolling effects.
+Pretty simple HTML and CSS, but great example of how to use scrolling effects.
 
 This was taken from the Online Tutorials [videos](https://www.youtube.com/watch?v=T5iEXh4NYQE)
 
